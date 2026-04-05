@@ -91,7 +91,7 @@ struct SettingsView: View {
                 Text(vm.userName.isEmpty ? "Your Name" : vm.userName)
                     .font(.system(size: 18, weight: .bold))
                     .foregroundStyle(Color.appTextPrimary)
-                Text(vm.userName.isEmpty ? "Tap to set your name" : "Sample App User")
+                Text(vm.userName.isEmpty ? "Tap to set your name" : "To Do App User")
                     .font(.system(size: 13))
                     .foregroundStyle(Color.appTextSecondary)
             }

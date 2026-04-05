@@ -1,4 +1,4 @@
-# SampleApp
+# To Do App
 
 A clean, modern iOS app built with SwiftUI following the **MVVM** architecture. The app includes three core features: a countdown timer, a to-do list, and a settings panel — all wrapped in a polished, cohesive design system.
 
@@ -42,7 +42,7 @@ A clean, modern iOS app built with SwiftUI following the **MVVM** architecture. 
 This project follows the **MVVM (Model-View-ViewModel)** pattern.
 
 ```
-SampleApp/
+To Do App/
 ├── App/
 │   ├── SampleAppApp.swift       — App entry point
 │   └── ContentView.swift        — Tab bar root
@@ -92,12 +92,12 @@ SampleApp/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/SampleApp.git
+   git clone https://github.com/<your-username>/to-do-app.git
    ```
 
 2. Open the project in Xcode:
    ```bash
-   open SampleApp/SampleApp.xcodeproj
+   open SampleApp/SampleApp.xcodeproj  # or double-click SampleApp.xcodeproj
    ```
 
 3. Select a simulator or connected device and press **⌘R** to run.

@@ -64,7 +64,7 @@
 				BB000002000000000000005 /* Theme */,
 				BB000002000000000000006 /* Resources */,
 			);
-			path = SampleApp;
+			path = "To Do App";
 			sourceTree = "<group>";
 		};
 		AA000002000000000000003 /* Products */ = {
@@ -143,8 +143,8 @@
 			);
 			dependencies = (
 			);
-			name = SampleApp;
-			productName = SampleApp;
+			name = "To Do App";
+			productName = "To Do App";
 			productReference = AA000010000000000000000 /* SampleApp.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -350,8 +350,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				INFOPLIST_KEY_CFBundleDisplayName = "To Do App";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.SampleApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ToDoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -379,8 +380,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				INFOPLIST_KEY_CFBundleDisplayName = "To Do App";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.SampleApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ToDoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
