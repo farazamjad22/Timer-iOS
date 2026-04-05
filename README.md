@@ -6,7 +6,10 @@ A clean, modern iOS app built with SwiftUI following the **MVVM** architecture. 
 
 ## Screenshots
 
-> _Add screenshots here after running on simulator or device._
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-05 at 23 12 03" src="https://github.com/user-attachments/assets/0dbf2df3-7681-4955-8368-6472ec5dcbe2" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-05 at 23 12 25" src="https://github.com/user-attachments/assets/c12e4e38-3bec-4618-a7ca-05dd43bed97c" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-05 at 23 13 13" src="https://github.com/user-attachments/assets/31f55e2c-0b4a-4120-aaec-a7ebf50771ee" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-05 at 23 13 31" src="https://github.com/user-attachments/assets/d033c80d-f5c0-4f4d-b159-72af575a3e13" />
 
 ---
 
@@ -117,9 +120,3 @@ All colors, gradients, and button styles live in `AppTheme.swift` for easy custo
 | `appWarning` | `#FDB930` Amber | Paused state |
 | `appDanger` | `#EF4444` Red | Destructive actions |
 | `appBackground` | `#F5F4FC` | Screen backgrounds |
-
----
-
-## License
-
-This project is available under the [MIT License](LICENSE).
